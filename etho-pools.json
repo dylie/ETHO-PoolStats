@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "name": "wattpool",
+      "url": "https://ether1.wattpool.net/",
+      "api": "https://ether1.wattpool.net/api/",
+      "type": "node.js",
+      "miningAddress": "ether1.wattpool.net",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    }
+  ]
+}
