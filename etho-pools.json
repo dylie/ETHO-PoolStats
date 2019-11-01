@@ -1,7 +1,7 @@
 {
   "pools": [
     {
-      "name": "solopool",
+      "name": "soloppool",
       "url": "https://etho.solopool.org/",
       "api": "https://etho.solopool.org/api/",
       "type": "forknote",
