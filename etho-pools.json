@@ -3,7 +3,7 @@
     {
       "name": "muxduxx",
       "url": "https://trtl.muxdux.com/",
-      "api": "https://trtl.muxdux.com/api/stats/",
+      "api": "https://trtl.muxdux.com/api/",
       "type": "forknote",
       "miningAddress": "trtl.muxdux.com",
       "mergedMining": false,
