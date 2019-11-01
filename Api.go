@@ -21,8 +21,8 @@ import (
     "math"
 )
 
-const poolsJSON string = "main link" +
-                         "etho-pools-json/master/v2/etho-pools.json"
+const poolsJSON string = "https://raw.githubusercontent.com/dylie/" +
+                         "ETHO-PoolStats/master/etho-pools.json"
 
 /* The amount of blocks a pool can vary from the others before we notify */
 const poolMaxDifference int = 5
