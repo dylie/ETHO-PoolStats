@@ -1,11 +1,11 @@
 {
   "pools": [
     {
-      "name": "wattpool",
-      "url": "https://ether1.wattpool.net/",
-      "api": "https://api.wattpool.net/0/ether1/api/stats",
+      "name": "weemine",
+      "url": "http://ether1.weeminepool.com/",
+      "api": "http://ether1.weeminepool.com/api/stats",
       "type": "node.js",
-      "miningAddress": "ether1.wattpool.net",
+      "miningAddress": "ether1.weeminepool.com",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     }
