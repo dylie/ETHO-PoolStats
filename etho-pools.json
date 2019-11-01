@@ -1,11 +1,11 @@
 {
   "pools": [
     {
-      "name": "muxduxx",
-      "url": "https://trtl.muxdux.com/",
-      "api": "https://trtl.muxdux.com/api/",
+      "name": "solopool",
+      "url": "https://etho.solopool.org/",
+      "api": "https://etho.solopool.org/api/",
       "type": "forknote",
-      "miningAddress": "trtl.muxdux.com",
+      "miningAddress": "etho.solopool.org",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     }
