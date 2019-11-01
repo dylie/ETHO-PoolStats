@@ -1,11 +1,11 @@
 {
   "pools": [
     {
-      "name": "weemine",
-      "url": "http://ether1.weeminepool.com/",
-      "api": "http://ether1.weeminepool.com/api/stats",
-      "type": "node.js",
-      "miningAddress": "ether1.weeminepool.com",
+      "name": "poolsexy",
+      "url": "http://mining-etho.pool.sexy/",
+      "api": "http://mining-etho.pool.sexy/api/",
+      "type": "forknote",
+      "miningAddress": "etho.pool.sexy",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     }
