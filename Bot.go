@@ -22,8 +22,8 @@ import (
     "crypto/tls"
 )
 
-const poolsJSON string = "https://raw.githubusercontent.com/dylie/" +
-                         "ETHO-PoolStats/master/etho-pools.json"
+const poolsJSON string = "https://raw.githubusercontent.com/turtlecoin/" +
+                         "turtlecoin-pools-json/master/v2/turtlecoin-pools.json"
 
 const poolsChannel string = "530439932486090782"
 
