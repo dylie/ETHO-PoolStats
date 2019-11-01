@@ -1,7 +1,7 @@
 {
   "pools": [
     {
-      "name": "muxdux",
+      "name": "muxduxx",
       "url": "https://trtl.muxdux.com/",
       "api": "https://trtl.muxdux.com/api/stats/",
       "type": "forknote",
