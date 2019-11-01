@@ -1,11 +1,11 @@
 {
   "pools": [
     {
-      "name": "poolsexy",
-      "url": "http://mining-etho.pool.sexy/",
-      "api": "http://mining-etho.pool.sexy/api/",
+      "name": "muxdux",
+      "url": "https://trtl.muxdux.com/",
+      "api": "https://trtl.muxdux.com/api/stats/",
       "type": "forknote",
-      "miningAddress": "etho.pool.sexy",
+      "miningAddress": "trtl.muxdux.com",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     }
